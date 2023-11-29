@@ -3,7 +3,7 @@
 //  HelloWorld
 //
 //  Created by No name on 29.11.2023.
-//
+// var
 
 import UIKit
 
